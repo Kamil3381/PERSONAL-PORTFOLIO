@@ -13,3 +13,6 @@ h2 {
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 color: slategrey;
 }
+h3 {
+    font-style: italic;
+}
