@@ -1,0 +1,22 @@
+body {
+    background-color: deepskyblue;
+
+}
+.resume {
+    background-color: limegreen;
+}
+h1 {
+    font-family: fantasy;
+    color: rgb(221, 78, 11);
+}
+h2 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: slategrey;
+}
+h3 {
+    font-style: italic;
+    color: steelblue;
+}
+h4 {
+    font-style: oblique;
+}
